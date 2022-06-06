@@ -2,7 +2,7 @@
 
 Terraform module for creation of Log Data Transformation triggered by Kinesis Data Stream with Kinesis Firehose as destination
 
-![Kinesis Data Stream -> Lambda -> Kinesis Firehose](https://github.com/katjes733/log-data-transformation-module/doc/images/Data Stream-Lambda-Firehose.png?raw=true "Architecture")
+![Kinesis Data Stream -> Lambda -> Kinesis Firehose](https://github.com/katjes733/log-data-transformation-module/doc/images/Data_Stream-Lambda-Firehose.png?raw=true "Architecture")
 
 ## Feature overview
 
