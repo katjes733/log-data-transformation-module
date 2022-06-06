@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+.terraform
+.package
+.terraform.tfstate.lock.info
+response.json
